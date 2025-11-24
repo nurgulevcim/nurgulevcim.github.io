@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Hakkımda"
+    url: /about/
+  - title: "Projeler"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
