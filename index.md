@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Verinin Gerçekliği"
+title: "Nurgül ile Verinin Gerçekliği"
 permalink: /
 header:
   overlay_image: /assets/images/header.jpg
