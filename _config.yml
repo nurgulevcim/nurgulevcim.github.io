@@ -1,0 +1,26 @@
+title: "Nurgül Evcim"
+subtitle: "Verinin Gerçekliği"
+description: "Veri ile gerçekliğe uzanan bir yolculuk."
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+minimal_mistakes_skin: "air"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name     : "Nurgül Evcim"
+  bio      : "Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan bir veri odaklı araştırmacı."
+  location : "Türkiye"
+  
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+
+markdown: kramdown
