@@ -1,7 +1,14 @@
 ---
-layout: collection
+layout: archive
 title: "Blog"
-collection: posts
 permalink: /blog/
-entries_layout: list
+author_profile: false
 ---
+
+## 📂 Kategoriler
+- [Yoksulluk Yazıları](/categories/yoksulluk/)
+- [Piyasa Araştırmaları](/categories/piyasaarastirmalari/)
+
+---
+
+{% include archive.html %}
