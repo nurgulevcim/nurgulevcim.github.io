@@ -2,7 +2,8 @@
 layout: post
 title: "E-commerce Customer Behavior Analysis – FM Segmentation Insights"
 date: 2025-02-21
-categories: data-analysis ecommerce segmentation
+categories:
+  - piyasaarastirmalari
 ---
 
 # 📦 E-commerce Customer Behavior Analysis  
