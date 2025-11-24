@@ -150,6 +150,13 @@ Maize Production & Prices (Koyck Model)
 
 ---
 
+- **Google Scholar ID:** Nv7qIGYAAAAJ&hl=tr
+- **ORCID:** 0000-0002-7584-7316
+- **WOS Research ID:** JOZ-6653-2023
+- **Scopus Author ID:** 57197761847
+
+ ---
+
 ## 📞 İletişim
 - **E-posta:** nurgulevcim89@gmail.com  
     
