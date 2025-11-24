@@ -17,10 +17,10 @@ jobs:
       with:
         ruby-version: '3.1'
 
-    - name: Install dependencies
+    name: Install dependencies
       run: |
         gem install bundler
-        bundle install --jobs 4
+        bundle install
 
     - name: Build site
       run: bundle exec jekyll build
