@@ -16,11 +16,11 @@ tags:
 
 İkinci Dünya Savaşı’nın yarattığı ağır tahribat ve Büyük Buhran’ın etkileri, sadece ekonomik değil toplumsal bir felaketin de habercisiydi. William Beveridge, 1942’de hazırladığı raporla devletin çözmesi gereken **“beş büyük toplumsal sorun”** belirledi:
 
-- **Yoksulluk (Want)**  
-- **Hastalık (Disease)**  
-- **Eğitimsizlik (Ignorance)**  
-- **Kötü barınma (Squalor)**  
-- **İşsizlik (Idleness)**  
+- **Yoksulluk**  
+- **Hastalık**  
+- **Eğitimsizlik**  
+- **Kötü barınma**  
+- **İşsizlik**  
 
 Raporun temel ilkesi şuydu:
 
