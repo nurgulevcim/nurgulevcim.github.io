@@ -3,8 +3,8 @@ layout: splash
 title: "Nurgül Evcim"
 permalink: /
 header:
-  overlay_color: "#ffffff"
-  overlay_filter: 0.15
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.2
 excerpt: "Veri ile gerçekliğe uzanan bir yolculuk."
 feature_row:
   - title: "Veri Analizi"
