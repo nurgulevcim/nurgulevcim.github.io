@@ -3,8 +3,7 @@ layout: single
 title: "Yoksulluğun Dönüşümü: Sanayi Devrimi, Workhouse Sistemi ve Yeni Yoksul Yasalarına Giden Yol"
 excerpt: "Sanayi Devrimi'nin sert çalışma koşulları, Speenhamland sistemi, çalışma evleri ve 1834 Yeni Yoksul Yasaları üzerine kitapvari bir anlatım."
 categories:
-  - Blog
-  - Yoksulluk
+  - yoksulluk
 tags:
   - ekonomik yoksulluk
   - sosyal politika
