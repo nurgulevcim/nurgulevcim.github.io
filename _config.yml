@@ -1,6 +1,7 @@
 title: "Verinin Gerçekliği"
 description: "Veri ile gerçekliğe uzanan bir yolculuk."
 
+# Tema
 remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 minimal_mistakes_skin: "air"
 
@@ -10,35 +11,39 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-archives   # ⭐ KATEGORİLERİN ÇALIŞMASI İÇİN ZORUNLU
+  - jekyll-archives
 
 markdown: kramdown
 
+# Yazar Bilgisi
 author:
-  name     : "Nurgül Evcim"
-  bio      : "Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan bir veri odaklı araştırmacı."
-  location : "Türkiye"
+  name: "Nurgül Evcim"
+  bio: "Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan bir veri odaklı araştırmacı."
+  location: "Türkiye"
 
 # BLOG AYARLARI
 paginate: 5
 paginate_path: "/blog/page:num/"
 
-# Post koleksiyonu
+# Post koleksiyonu — KATEGORİYE GÖRE URL
 collections:
   posts:
     output: true
     permalink: /:categories/:title/
 
-# KATEGORİ ARŞİVLERİNİN AKTİF OLMASI İÇİN
+# KATEGORİ & TAG ARŞİVLERİ (⭐ zorunlu)
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layouts:
     category: archive
+    tag: archive
   permalinks:
     category: /categories/:name/
+    tag: /tags/:name/
 
-# Varsayılanlar
+# Varsayılanlar (ÇOK KRİTİK)
 defaults:
   - scope:
       path: ""
