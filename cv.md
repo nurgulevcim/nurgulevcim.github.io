@@ -64,16 +64,54 @@ Pamukkale Üniversitesi, İİBF
 
 ---
 
-## 📚 Yayınlar
+## 📚 Yayınlar (PDF)
 
-### Uluslararası Hakemli Dergiler
-1. **What are the main determinants of social expenditure?** IJSE, 2024  
-2. **Spatial interaction and economic growth**, Future Business Journal, 2023  
+### 2023  
+**Karaalp-Orhan, Evcim & Deyneli (2023)**  
+What are the main determinants of social expenditure?  
+➡️ [PDF’yi Görüntüle](/assets/papers/Karaalp-Orhan_Evcim_Deyneli_2023.pdf)
 
-### Ulusal Hakemli Dergiler
-1. Ortalama Okullaşma Yılı ve İnsani Gelişme Endeksi Analizi (2021)  
-2. Türkiye’de Hanehalkı Göreli Yoksulluğunu Belirleyen Faktörler (2020)  
-3. MENA Bölgesinde Yoksulluk–Büyüme İlişkisi (2019)  
+---
+
+### 2021  
+**Gulel, Evcim & Yesilyurt (2021)**  
+Mean and Expected Schooling & HDI  
+➡️ [PDF’yi Görüntüle](/assets/papers/Gulel_Evcim_Yesilyurt_2021.pdf)
+
+---
+
+### 2023  
+**Evcim & Yesilyurt (2023)**  
+Spatial Interaction & Economic Growth  
+➡️ [PDF’yi Görüntüle](/assets/papers/Evcim_Yesilyurt_2023.pdf)
+
+---
+
+### 2020  
+**Evcim, Gunes & Karaalp (2020)**  
+Relative Poverty in Turkey  
+➡️ [PDF’yi Görüntüle](/assets/papers/Evcim_Gunes_Karaalp_2020.pdf)
+
+---
+
+### 2019  
+**Evcim, Gunes & Karaalp (2019)**  
+Poverty, Inequality & Growth  
+➡️ [PDF’yi Görüntüle](/assets/papers/Evcim_Gunes_Karaalp_2019.pdf)
+
+---
+
+### 2019  
+**Evcim, Gunes & Karaalp (2019)**  
+Poverty & Economic Indicators – MENA Region  
+➡️ [PDF’yi Görüntüle](/assets/papers/Evcim_Gunes_Karaalp_MENA_2019.pdf)
+
+---
+
+### 2025  
+**Dogangun, Kocak & Evcim (2025)**  
+Maize Production & Prices (Koyck Model)  
+➡️ [PDF’yi Görüntüle](/assets/papers/Dogangun_Kocak_Evcim_2025.pdf)
 
 ---
 
