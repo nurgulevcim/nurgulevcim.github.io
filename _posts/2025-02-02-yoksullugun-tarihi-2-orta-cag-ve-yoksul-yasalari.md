@@ -69,7 +69,7 @@ Bu yaklaşım, sonraki yüzyıllarda İngiltere’de kurulacak olan çalışma e
 
 ---
 
-## 📌 Sonuç
+## Sonuç
 
 Orta Çağ, yoksulluğun:
 
