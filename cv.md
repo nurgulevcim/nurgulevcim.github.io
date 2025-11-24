@@ -56,14 +56,6 @@ Pamukkale Üniversitesi, İİBF
 
 ---
 
-## 🏆 Ödüller & Burslar
-
-- **DEÜ Bilimsel Araştırma ve Tez Yarışması (1.lik – 2018)**  
-- **TÜBİTAK BİDEB 2211 Doktora Bursu**  
-- **YÖK 100/2000 Doktora Bursu – Yoksulluk Çalışmaları**
-
----
-
 ## 📚 Yayınlar (PDF)
 
 ### 2023  
@@ -130,8 +122,19 @@ Maize Production & Prices (Koyck Model)
 - OECD Ülkelerinde Büyüme (2017)
 
 ---
+
 ## 📚 Editörlük
 -Cumhuriyetin 100. Yılında İllerin İktisadi Gelişimi 100. Yıldan Yüzyıllara Güneydoğu Anadolu Bölgesi (2023)
+
+---
+
+## 🏆 Ödüller & Burslar
+
+- **DEÜ Bilimsel Araştırma ve Tez Yarışması (1.lik – 2018)**  
+- **TÜBİTAK BİDEB 2211 Doktora Bursu**  
+- **YÖK 100/2000 Doktora Programı – Yoksulluk Çalışmaları**
+
+---
 
 ## 🧪 Devam Eden Çalışmalar
 - Working Poverty in Türkiye  
