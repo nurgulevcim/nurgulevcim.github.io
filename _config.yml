@@ -4,6 +4,7 @@ description: "Veri ile gerçekliğe uzanan bir yolculuk."
 remote_theme: "mmistakes/minimal-mistakes@4.26.1"
 minimal_mistakes_skin: "air"
 
+# Gerekli pluginler
 plugins:
   - jekyll-include-cache
   - jekyll-feed
@@ -17,24 +18,24 @@ author:
   bio      : "Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan bir veri odaklı araştırmacı."
   location : "Türkiye"
 
-# ✔ BLOG İÇİN GEREKLİ AYARLAR
+# BLOG AYARLARI
 paginate: 5
 paginate_path: "/blog/page:num/"
 
+# Post koleksiyonu
 collections:
   posts:
     output: true
     permalink: /:categories/:title/
 
+# Varsayılanlar (ÇOK KRİTİK — doğru girintiyle!)
 defaults:
-  # Sayfalar
   - scope:
       path: ""
       type: "pages"
     values:
       layout: single
 
-  # Postlar (blog yazıları)
   - scope:
       path: ""
       type: "posts"
