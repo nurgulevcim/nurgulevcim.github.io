@@ -5,5 +5,4 @@ gem "jekyll-include-cache"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
 
-# Tema
 gem "minimal-mistakes-jekyll"
