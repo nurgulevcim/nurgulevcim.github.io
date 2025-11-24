@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Nurgül Evcim"
+title: "Verinin Gerçekliği"
 permalink: /
 header:
   overlay_image: /assets/images/header.jpg
@@ -19,6 +19,5 @@ feature_row:
 ---
 
 Merhaba!  
-Ben **Nurgül Evcim**.
 
 Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan, gerçek dünyayı veriye dönüştürmeyi seven bir araştırmacıyım. Bu sayfada hem teknik projelerimi hem de analitik yolculuğumu keşfedebilirsin.
