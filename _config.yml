@@ -2,7 +2,6 @@ title: "Verinin Gerçekliği"
 description: "Veri ile gerçekliğe uzanan bir yolculuk."
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
 minimal_mistakes_skin: "air"
 
 plugins:
@@ -10,16 +9,35 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+markdown: kramdown
+
 author:
   name     : "Nurgül Evcim"
   bio      : "Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan bir veri odaklı araştırmacı."
   location : "Türkiye"
-  
+
+# ✔ BLOG İÇİN GEREKLİ AYARLAR
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+
 defaults:
+  # Sayfalar
   - scope:
       path: ""
       type: "pages"
     values:
       layout: single
 
-markdown: kramdown
+  # Postlar (blog yazıları)
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      read_time: true
+      comments: false
