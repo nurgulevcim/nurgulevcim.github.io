@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-archives   # ⭐ KATEGORİLERİN ÇALIŞMASI İÇİN ZORUNLU
 
 markdown: kramdown
 
@@ -28,7 +29,16 @@ collections:
     output: true
     permalink: /:categories/:title/
 
-# Varsayılanlar (ÇOK KRİTİK — doğru girintiyle!)
+# KATEGORİ ARŞİVLERİNİN AKTİF OLMASI İÇİN
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive
+  permalinks:
+    category: /categories/:name/
+
+# Varsayılanlar
 defaults:
   - scope:
       path: ""
