@@ -39,10 +39,9 @@ Pamukkale Üniversitesi, İİBF
 
 ## 🛠 Teknik Yetenekler
 
-- **Programlar:** Microsoft Office, SPSS, Stata, Eviews  
-- **Kodlama:** MATLAB, Python  
-- **Alanlar:** Büyüme, Yoksulluk, Çalışan Yoksulluğu, Mekânsal Ekonometri  
-- **Ek Araçlar:** ArcGIS, veri temizleme, panel veri analizi, kesit-veri analizi
+- **Programlar:** Microsoft Office, SPSS, Stata, Python, MATLAB, Eviews, ArcGIS  
+- **Alanlar:** Büyüme, Eğitim, Yoksulluk, Çalışan Yoksulluğu, Mekânsal Ekonometri  
+- **Ek Araçlar:** veri toplama, düzenleme, analiz (panel veri analizi, kesit-veri analizi)
 
 ---
 
