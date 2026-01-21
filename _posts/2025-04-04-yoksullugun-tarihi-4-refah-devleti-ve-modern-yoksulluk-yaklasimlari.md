@@ -2,12 +2,8 @@
 layout: single
 title: "Yoksulluğun Dönüşümü: Refah Devletinin Doğuşu ve Modern Yoksulluk Yaklaşımları"
 excerpt: "Beveridge Raporu, sosyal güvenlik sistemlerinin dönüşümü, refah devletinin yükselişi ve neoliberal dönemde yoksulluğun yeniden tanımlanışı."
-categories:
-    - yoksulluk
-tags:
-  - refah devleti
-  - sosyal politika
-  - modern yoksulluk
+categories: [yoksulluk]
+tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 ---
 
 20. yüzyıl, yoksulluğun tarihsel seyrinde yeni bir başlangıç noktasıdır. Sanayi Devrimi'nin sert koşulları, işçi hareketleri, savaşlar ve ekonomik krizler, devletin sosyal alandaki rolünü yeniden tanımlaması gerektiğini açıkça ortaya koydu. Bu dönemin en önemli adımı ise modern sosyal politika anlayışının temellerini atan **Beveridge Raporu** oldu.
