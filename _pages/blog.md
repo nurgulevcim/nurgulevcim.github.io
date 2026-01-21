@@ -3,12 +3,7 @@ layout: archive
 title: "Blog"
 permalink: /blog/
 author_profile: false
+taxonomy: categories
+category: blog
+entries_layout: list
 ---
-
-## 📂 Kategoriler
-- [Yoksulluk Yazıları](/categories/yoksulluk/)
-- [Piyasa Araştırmaları](/categories/piyasaarastirmalari/)
-
----
-
-{% include archive.html %}
