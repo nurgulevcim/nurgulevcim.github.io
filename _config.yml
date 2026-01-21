@@ -60,5 +60,3 @@ defaults:
       classes: wide
       read_time: true
       comments: false
-extra_css:
-  - /assets/css/custom.css
