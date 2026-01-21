@@ -9,7 +9,7 @@ author_profile: true
 **Araştırmacı ve Veri Analisti | Müşteri Davranışı & E-ticaret İçgörüleri | Python & Görselleştirme**
 
 Veri odaklı içgörülerle müşteri davranışını anlamaya tutkusu olan bir veri analistiyim.  
-Ham veriyi anlamlı ve aksiyona dönüşebilir içgörülere dönüştürmeyi, işletmelerin karar alma süreçlerine katkı sağlamayı önemsiyorum.
+Ham veriyi anlamlı ve aksiyona dönüşebilir içgörülere dönüştürmeyi, karar alma süreçlerine katkı sağlamayı önemsiyorum.
 
 ---
 
@@ -39,7 +39,7 @@ Bu blogda şunları bulacaksınız:
 
 ## ✨ Veri ile Neden Çalışıyorum?  
 Verinin yalnızca rakamlardan ibaret olmadığını düşünüyorum.  
-Doğru yorumlandığında; insanların nasıl davrandığını, neye ihtiyaç duyduğunu ve işletmelerin nasıl daha iyi deneyimler sunabileceğini anlatan güçlü bir hikâye taşıyor.
+Doğru yorumlandığında; insanların nasıl davrandığını, neye ihtiyaç duyduğunu ve işletmelerin/politika yapıcıların nasıl daha iyi deneyimler sunabileceğini anlatan güçlü bir hikâye taşıyor.
 
 Benim için veri, **gerçekliğe giden en net yol**.
 
