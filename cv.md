@@ -129,7 +129,7 @@ Maize Production & Prices (Koyck Model)
 
 ## 🏆 Ödüller & Burslar
 
-- **DEÜ Bilimsel Araştırma ve Tez Yarışması (1.lik – 2018)**  
+- **DEÜ Bilimsel Araştırma ve Tez Yarışması (birincilik – 2018)**  
 - **TÜBİTAK BİDEB 2211 Doktora Bursu**  
 - **YÖK 100/2000 Doktora Programı – Yoksulluk Çalışmaları**
 
