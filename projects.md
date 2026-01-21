@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projects | Projeler"
+title: "Projeler"
 permalink: /projects/
 author_profile: true
 ---
