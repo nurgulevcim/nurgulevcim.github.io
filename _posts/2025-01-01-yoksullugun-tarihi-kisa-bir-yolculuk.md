@@ -2,12 +2,8 @@
 layout: single
 title: "Yoksulluğun Tarihine Kısa Bir Yolculuk"
 excerpt: "İlkel toplumlardan modern refah devletine uzanan yoksulluk tarihine kısa bir bakış."
-categories:
-  - yoksulluk
-tags:
-  - ekonomik yoksulluk
-  - sosyal politika
-  - tarih
+categories: [yoksulluk]
+tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 ---
 
 Yoksulluk, insanlık tarihinin en eski ama en değişken meselelerinden biridir. İlk topluluklarda mülkiyet ve sınıf olmadığı için yoksulluk bugünkü anlamıyla yoktu. Herkes aynı kaynağa erişiyor, üretim ortak yapılıyor ve yaşam eşit bir şekilde sürüyordu.
