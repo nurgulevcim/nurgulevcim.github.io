@@ -2,12 +2,8 @@
 layout: single
 title: "Yoksulluğun Dönüşümü: Sanayi Devrimi, Workhouse Sistemi ve Yeni Yoksul Yasalarına Giden Yol"
 excerpt: "Sanayi Devrimi'nin sert çalışma koşulları, Speenhamland sistemi, çalışma evleri ve 1834 Yeni Yoksul Yasaları üzerine kitapvari bir anlatım."
-categories:
-  - yoksulluk
-tags:
-  - ekonomik yoksulluk
-  - sosyal politika
-  - sanayi devrimi
+categories: [yoksulluk]
+tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 ---
 
 Sanayi Devrimi, yoksulluğun tarihindeki en sert dönemeçlerden biridir. Hızla gelişen sanayi üretimi, devasa bir işgücü talebi yarattı; bu talep çoğu zaman ucuz ve güvencesiz emekle karşılandı. Kırsaldan kentlere akan yoksullar, yeni düzenin merkezinde ama hakların en uzağında yer alıyordu.
