@@ -20,7 +20,7 @@ Here are some of the projects I work on, focusing on customer behavior, segmenta
 - Behavioral clustering  
 
 ➡️ **Project Link:**  
-https://github.com/nurgulevcim/Ecommerce-Customer-Behavior-Analysis
+(https://github.com/nurgulevcim/ecommerce-customer-segmentation)
 
 ---
 
