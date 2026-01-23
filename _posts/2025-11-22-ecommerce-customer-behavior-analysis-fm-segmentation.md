@@ -1,4 +1,11 @@
 ---
+layout: single
+title: "Social Media Algorithms & Consumer Behavior – Analysis Report"
+date: 2025-11-22
+categories: [piyasaarastirmalari]
+---
+
+---
 
 # 📊 Sosyal Medya Algoritmaları ve Tüketici Davranışı – Analiz Raporu
 
