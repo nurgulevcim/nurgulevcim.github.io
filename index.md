@@ -11,7 +11,7 @@ feature_row:
     excerpt: "Gerçek dünyadaki ekonomik ve davranışsal verileri anlamlı içgörülere dönüştürme."
     image_path: /assets/images/analytics.jpg
   - title: "Ekonometrik Modeller"
-    excerpt: "Zaman serileri, panel veri, nedensellik ve mekânsal modeller."
+    excerpt: "kesit veri, panel veri, nedensellik ve mekânsal modeller."
     image_path: /assets/images/models.jpg
   - title: "Data Storytelling"
     excerpt: "Verilerin ardındaki hikâyeyi görsel ve anlatısal bir yapıya dönüştürme."
