@@ -140,7 +140,8 @@ Kurulan doğrusal regresyon modeli istatistiksel olarak anlamlıdır
 Bu analiz, algoritmaların yalnızca teknik araçlar değil,  
 tüketici kararlarını yaklaşık **%64 oranında açıklayan psikolojik yönlendiriciler** olduğunu göstermektedir.
 
-🔗 Proje Dosyaları
-Bu analizde kullanılan notebook ve görseller GitHub’da:
+## 🔗 Proje Dosyaları
 
-👉 social-media-algorithmic-influence Repository
+Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:
+
+👉 https://github.com/nurgulevcim/social-media-algorithmic-influence
