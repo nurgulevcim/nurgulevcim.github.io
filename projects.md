@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# 📊 Data Analysis Projects
+# 📊 Veri Analiz Projeleri
 
 İşte müşteri davranışı, segmentasyon, görselleştirme ve Python tabanlı analitik konularına odaklanan, üzerinde çalıştığım projelerden bazıları.
 
