@@ -145,3 +145,6 @@ tüketici kararlarını yaklaşık **%64 oranında açıklayan psikolojik yönle
 Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:
 
 👉 https://github.com/nurgulevcim/social-media-algorithmic-influence
+
+Hazırlayan: **Nurgül Evcim**  
+_Data Analyst
