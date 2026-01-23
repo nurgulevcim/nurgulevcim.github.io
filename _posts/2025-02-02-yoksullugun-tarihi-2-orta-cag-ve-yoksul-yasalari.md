@@ -8,7 +8,7 @@ tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 
 Yoksulluk, Orta Çağ’da büyük ölçüde “dilencilik” ile özdeşleşmişti. Tüm yoksullar, dilencilerden oluşmaktaydı. Avrupa’daki savaşlar, salgınlar ve kıtlıklar geniş halk kitlelerini geçim kaynaklarından uzaklaştırmış, birçok insan yaşamını sürdürebilmek için sokakta dilenmek zorunda kalmıştır. 
 
-14. yüzyılın ortasında ortaya çıkan **Kara Ölüm** (Black Death) salgını, nüfusun üçte birini yok ederek Avrupa’nın ekonomik ve sosyal yapısını altüst etmiştir. İşgücü azalır, üretim düşer ve yoksulluk derinleşir. Bu dönemde dilenciler, yalnızca ekonomik bir sorun olarak değil, aynı zamanda **düzen bozucu** bir unsur haline gelmiştir.
+14.yüzyılın ortasında ortaya çıkan **Kara Ölüm** (Black Death) salgını, nüfusun üçte birini yok ederek Avrupa’nın ekonomik ve sosyal yapısını altüst etmiştir. İşgücü azalır, üretim düşer ve yoksulluk derinleşir. Bu dönemde dilenciler, yalnızca ekonomik bir sorun olarak değil, aynı zamanda **düzen bozucu** bir unsur haline gelmiştir.
 
 ## 1388 Yoksul Yasası: İlk Büyük Kontrol Mekanizması
 1388 yılında çıkarılan **Yoksul Yasası**, Orta Çağ’ın ilk kapsamlı sosyal düzenlemesidir. Bu yasa ile:
