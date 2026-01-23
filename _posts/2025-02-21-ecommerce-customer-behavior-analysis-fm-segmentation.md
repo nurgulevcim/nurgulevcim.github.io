@@ -75,9 +75,9 @@ Sosyal medyanın bazı segmentlerde güçlü, bazılarında etkisiz olduğu gör
 ## 🔗 Proje Dosyaları  
 Bu analizde kullanılan notebook ve görseller GitHub’da:
 
-👉 [E-commerce Behavior Analysis Repository](#)
+👉 https://github.com/nurgulevcim/ecommerce-customer-segmentation
 
 ---
 
 Hazırlayan: **Nurgül Evcim**  
-_Data Analyst & Customer Behavior Research_
+_Data Analyst
