@@ -9,19 +9,16 @@ tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 Yoksulluk, Orta Çağ’da büyük ölçüde “dilencilik” ile özdeşleşmişti. Tüm yoksullar, dilencilerden oluşmaktaydı. Avrupa’daki savaşlar, salgınlar ve kıtlıklar geniş halk kitlelerini geçim kaynaklarından uzaklaştırmış, birçok insan yaşamını sürdürebilmek için sokakta dilenmek zorunda kalmıştır. 
 
 14.yüzyılın ortasında ortaya çıkan **Kara Ölüm** (Black Death) salgını, nüfusun üçte birini yok ederek Avrupa’nın ekonomik ve sosyal yapısını altüst etmiştir. İşgücü azalır, üretim düşer ve yoksulluk derinleşir. Bu dönemde dilenciler, yalnızca ekonomik bir sorun olarak değil, aynı zamanda **düzen bozucu** bir unsur haline gelmiştir.
-
 ## 1388 Yoksul Yasası: İlk Büyük Kontrol Mekanizması
 1388 yılında çıkarılan **Yoksul Yasası**, Orta Çağ’ın ilk kapsamlı sosyal düzenlemesidir. Bu yasa ile:
 - Dilencilerin dolaşımı sınırlandırılır,  
 - Çalışabilir durumda olanların çalışması zorunlu hale getirilir,  
 - Yardımlar ise yalnızca “hak edenlere” verilir.
 Devlet, bu düzenlemelerle yoksulluğu kontrol altına almayı amaçlarken bir yandan da artan düzensiz nüfusu yönetmeyi hedefliyordu. Bu dönemde yoksulluk **toplumsal bir sorun** haline gelmiş, çözüm ise basittir: sıkı denetim ve sınıflandırma…
-
 ---
 
 ## Kilisenin Yardımları ve Devletin Devreye Girişi
 Orta Çağ boyunca yoksullara yönelik yardımlar, büyük ölçüde **kiliselerin** sorumluluğundaydı. Zenginler yoksullara yapılacak yardımlarını kiliselere bağışlardı. Kiliseler de uygun gördükleri yoksullara yardım ederdi. Ancak hızla artan nüfus, ekonomik krizler ve savaşlarla birlikte büyüyen bu yükü kiliseler taşıyamaz hale gelir. Bu nedenle 16. yüzyıla gelindiğinde devlet, yoksulluğu tamamen kendi kontrolüne alır.
-
 ---
 
 ## 1601 Eski Yoksul Yasaları: Modern Sosyal Politikanın Temeli
@@ -35,7 +32,6 @@ Bu yasalara göre:
 - Çalışamayacak durumda olan yaşlılar, çocuklar ve engelliler için yerel yönetimler destek sağladı.
 Bu düzenlemelerle yoksulluk ilk kez “dünyevi” bir sorun olarak ele alınmaya başlamış, yani tanrısal bir kader olmaktan çıkıp **kamusal bir sorumluluk** haline gelmiştir. 
 Bu yönüyle 1601 Yasaları, modern sosyal politikanın kilometre taşlarından biri sayılır.
-
 ---
 
 ## Orta Çağ’ın Mirası: Yardım mı, Kontrol mü?
