@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: "Veriden bilgiye, bilgiden stratejiye, stratejiden gerçekliğe uzanan bir yolculuk..."
+title: "Verinin Gerçekliği"
 permalink: /
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.2
-excerpt: "Veri ile gerçekliğe uzanan bir yolculuk."
+excerpt: "Veriden bilgiye, bilgiden stratejiye, stratejiden gerçekliğe uzanan bir yolculuk..."
 feature_row:
   - title: "Veri Analizi"
     excerpt: "Gerçek dünyadaki ekonomik ve davranışsal verileri anlamlı içgörülere dönüştürme."
