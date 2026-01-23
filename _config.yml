@@ -31,7 +31,7 @@ collections:
     output: true
     permalink: /:categories/:title/
 
-# KATEGORİ & TAG ARŞİVLERİ (⭐ zorunlu)
+# KATEGORİ & TAG ARŞİVLERİ (*** zorunlu)
 jekyll-archives:
   enabled:
     - categories
