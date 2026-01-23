@@ -24,12 +24,15 @@ Here are some of the projects I work on, focusing on customer behavior, segmenta
 
 ---
 
-## 🔹 **Upcoming Projects**
-*(These will be added soon.)*
+## 🔹 ** Social Media Algorithms & Consumer Behavior Analysis**
+ **Tools:** Python (pandas, numpy, matplotlib, seaborn) 
+- algorithmic-influence
+- personalization
+- influencer-marketing
+- digital-consumption
+- behavioral-segmentation
 
-- Churn prediction  
-- Customer lifetime value (CLV) modeling  
-- Advanced segmentation dashboards  
-- Cross-sell recommendation engine  
-
+  ➡️ **Project Link:**
+  (https://github.com/nurgulevcim/social-media-algorithmic-influence)
+  
 ---
