@@ -169,6 +169,6 @@ Maize Production & Prices (Koyck Model)
 
  ---
 
-## 📞 İletişim
+## 📩 İletişim
 - **E-posta:** nurgulevcim89@gmail.com  
     
