@@ -145,7 +145,7 @@ Maize Production & Prices (Koyck Model)
 
 ---
 
-## 🧪 Devam Eden Çalışmalar
+## 📚 Devam Eden Çalışmalar
 - Working Poverty in Türkiye  
 - Spatial Convergence of Working Poverty  
 - Migration & Working Poverty  
