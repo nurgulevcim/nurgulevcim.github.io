@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 # 👋 Merhaba, ben Nurgül   
-**Araştırmacı ve Veri Analisti | Müşteri Davranışı & E-ticaret İçgörüleri | Python & Görselleştirme**
+**Araştırmacı ve Veri Analisti | Piyasa İçgörüleri | Python & Görselleştirme**
 
-Veri odaklı içgörülerle müşteri davranışını anlamaya tutkusu olan bir veri analistiyim.  
+Veri odaklı içgörülerle piyasayı anlamaya çalışan bir araştırmacıyım.  
 Ham veriyi anlamlı ve aksiyona dönüşebilir içgörülere dönüştürmeyi, karar alma süreçlerine katkı sağlamayı önemsiyorum.
 
 ---
@@ -41,7 +41,7 @@ Bu blogda şunları bulacaksınız:
 Verinin yalnızca rakamlardan ibaret olmadığını düşünüyorum.  
 Doğru yorumlandığında; insanların nasıl davrandığını, neye ihtiyaç duyduğunu ve işletmelerin/politika yapıcıların nasıl daha iyi deneyimler sunabileceğini anlatan güçlü bir hikâye taşıyor.
 
-Benim için veri, **gerçekliğe giden en net yol**.
+Benim için veri, **gerçekliğe giden en net yoldur**.
 
 ---
 
