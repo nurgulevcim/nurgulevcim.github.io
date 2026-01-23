@@ -32,8 +32,7 @@ Here are some of the projects I work on, focusing on customer behavior, segmenta
 - digital-consumption
 - behavioral-segmentation
 
-  ➡️ **Project Link:**
-  
-  (https://github.com/nurgulevcim/social-media-algorithmic-influence)
+➡️ **Project Link:**
+(https://github.com/nurgulevcim/social-media-algorithmic-influence)
   
 ---
