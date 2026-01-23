@@ -26,13 +26,14 @@ Here are some of the projects I work on, focusing on customer behavior, segmenta
 
 ## 🔹 ** Social Media Algorithms & Consumer Behavior Analysis**
  **Tools:** Python (pandas, numpy, matplotlib, seaborn) 
-- algorithmic-influence
-- personalization
-- influencer-marketing
-- digital-consumption
-- behavioral-segmentation
+- Algorithmic-influence
+- Personalization
+- Influencer-marketing
+- Digital-consumption
+- Behavioral-segmentation
 
 ➡️ **Project Link:**
+
 (https://github.com/nurgulevcim/social-media-algorithmic-influence)
   
 ---
