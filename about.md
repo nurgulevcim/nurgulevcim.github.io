@@ -9,7 +9,7 @@ author_profile: true
 **Araştırmacı ve Veri Analisti | Piyasa İçgörüleri | Python & Görselleştirme**
 
 Veri odaklı içgörülerle piyasayı anlamaya çalışan bir araştırmacıyım.  
-Ham veriyi anlamlı ve aksiyona dönüşebilir içgörülere dönüştürmeyi, karar alma süreçlerine katkı sağlamayı önemsiyorum.
+Ham veriyi anlamlı ve aksiyona geçilebilecek içgörülere dönüştürmeyi, karar alma süreçlerine katkı sağlamayı önemsiyorum.
 
 ---
 
