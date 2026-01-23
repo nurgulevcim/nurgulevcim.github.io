@@ -107,11 +107,20 @@ Maize Production & Prices (Koyck Model)
 ---
 
 ## 📖 Kitap Bölümleri
-- Cumhuriyet’in 100. Yılında İllerin İktisadi Gelişimi 100. Yıldan Yüzyıllara Akdeniz bölgesi (2023)  
-- Eğitim Ekonomisi – Eğitim Göstergeleri (2022)  
-- Kadın ve Yoksulluk – Belirleyiciler (2021)  
-- Dünya Ekonomisi – Gelir Dağılımı, İstihdam, İşsizlik (2019)  
+- Cumhuriyet’in 100. Yılında İllerin İktisadi Gelişimi 100. Yıldan Yüzyıllara Akdeniz bölgesi (2023)
+  ➡️ [PDF’yi Görüntüle](/assets/book_chapters/Evcim_Soydaş_and_Yeşilyurt_(2023).pdf) 
+   
+- Eğitim Ekonomisi – Eğitim Göstergeleri (2022)
+  ➡️ [PDF’yi Görüntüle](/assets/book_chapters/Dogangun_Kocak_Evcim_2025.pdf)
+  
+- Kadın ve Yoksulluk – Belirleyiciler (2021)
+  ➡️ [PDF’yi Görüntüle](/assets/book_chapters/Evcim_and_Yeşilyurt_(2021).pdf)
+    
+- Dünya Ekonomisi – Gelir Dağılımı, İstihdam, İşsizlik (2019)
+  ➡️ [PDF’yi Görüntüle](/assets/book_chapters/Evcim_and_Karaalp-Orhan_(2019).pdf)
+   
 - Logistic Performance of Countries (Peter Lang, 2016)
+  ➡️ [PDF’yi Görüntüle](/assets/book_chapters/Türkmen-Ay_and_Evcim_(2016).pdf)
 
 ---
 
@@ -124,6 +133,7 @@ Maize Production & Prices (Koyck Model)
 
 ## 📚 Editörlük
 -Cumhuriyetin 100. Yılında İllerin İktisadi Gelişimi 100. Yıldan Yüzyıllara Güneydoğu Anadolu Bölgesi (2023)
+➡️ [PDF’yi Görüntüle](/assets/book_chapters/Editor_of_book.pdf)
 
 ---
 
