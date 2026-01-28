@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "E-commerce Customer Behavior Analysis – FM Segmentation Insights"
+title: "Piyasa-E-commerce Customer Behavior Analysis – FM Segmentation Insights"
 date: 2025-02-21
 categories: [piyasaarastirmalari]
 ---
