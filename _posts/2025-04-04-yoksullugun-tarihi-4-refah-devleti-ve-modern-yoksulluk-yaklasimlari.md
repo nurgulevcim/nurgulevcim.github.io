@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yoksulluğun Dönüşümü: Refah Devletinin Doğuşu ve Modern Yoksulluk Yaklaşımları"
+title: "Ekon-Yoksulluğun Dönüşümü: Refah Devletinin Doğuşu ve Modern Yoksulluk Yaklaşımları"
 excerpt: "Beveridge Raporu, sosyal güvenlik sistemlerinin dönüşümü, refah devletinin yükselişi ve neoliberal dönemde yoksulluğun yeniden tanımlanışı."
 categories: [yoksulluk]
 tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
