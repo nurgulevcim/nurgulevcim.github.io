@@ -1,4 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-01-28T14:42:18+00:00</updated><id>/feed.xml</id><title type="html">Verinin Gerçekliği</title><author><name>Nurgül Evcim</name></author><entry><title type="html">Küresel covid 19 pandemisi analizi</title><link href="/K%C3%BCresel-COVID-19-Pandemisi-Analizi/" rel="alternate" type="text/html" title="Küresel covid 19 pandemisi analizi" /><published>2025-12-25T00:00:00+00:00</published><updated>2025-12-25T00:00:00+00:00</updated><id>/K%C3%BCresel%20COVID-19%20Pandemisi%20Analizi</id><content type="html" xml:base="/K%C3%BCresel-COVID-19-Pandemisi-Analizi/"><![CDATA[]]></content><author><name>Nurgül Evcim</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Piyasa-Social Media Algorithms &amp;amp; Consumer Behavior – Analysis Report</title><link href="/piyasaarastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/" rel="alternate" type="text/html" title="Piyasa-Social Media Algorithms &amp;amp; Consumer Behavior – Analysis Report" /><published>2025-11-22T00:00:00+00:00</published><updated>2025-11-22T00:00:00+00:00</updated><id>/piyasaarastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation</id><content type="html" xml:base="/piyasaarastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/"><![CDATA[<hr />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-01-28T14:43:02+00:00</updated><id>/feed.xml</id><title type="html">Verinin Gerçekliği</title><author><name>Nurgül Evcim</name></author><entry><title type="html">Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu</title><link href="/data%20analysis/public%20health/K%C3%BCresel-COVID-19-Pandemisi-Analizi/" rel="alternate" type="text/html" title="Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu" /><published>2025-12-25T00:00:00+00:00</published><updated>2025-12-25T00:00:00+00:00</updated><id>/data%20analysis/public%20health/K%C3%BCresel%20COVID-19%20Pandemisi%20Analizi</id><content type="html" xml:base="/data%20analysis/public%20health/K%C3%BCresel-COVID-19-Pandemisi-Analizi/"><![CDATA[<p>📊 <strong>Küresel COVID-19 Pandemisi – Analiz Raporu</strong><br />
+Permalink</p>
+
+<p>Bu çalışma, küresel COVID-19 veri seti kullanılarak pandeminin <strong>ülke ve kıta bazında</strong> yayılımını, ölüm oranlarını, test kapasitesini ve nüfus etkisini analiz etmektedir.</p>
+
+<p>Araştırmanın temel amacı; toplam sayılarla görünmeyen <strong>bölgesel eşitsizlikleri</strong>, sağlık altyapısı farklarını ve test stratejilerinin vaka tespiti üzerindeki rolünü ortaya koymaktır.</p>
+
+<hr />
+
+<h2 id="-1-veri-hazırlama-ve-metodoloji">🧹 1. Veri Hazırlama ve Metodoloji</h2>
+
+<p>Veri seti; ülkeler ve kıtalar düzeyinde <strong>toplam vaka, ölüm, iyileşme, test sayıları ve nüfus bilgilerini</strong> içermektedir.</p>
+
+<h3 id="ön-işleme-adımları">Ön işleme adımları:</h3>
+<ul>
+  <li>Eksik <em>Deaths</em> ve <em>Recovered</em> değerleri 0 ile doldurulmuştur</li>
+  <li><em>Tests</em> değişkenindeki eksik gözlemler medyan ile tamamlanmıştır</li>
+  <li>“All” (küresel toplam) ve kıta düzeyindeki kayıtlar ülke bazlı analizlerden çıkarılmıştır</li>
+  <li>Tüm analizler Python (Pandas, NumPy, Matplotlib) kullanılarak gerçekleştirilmiştir</li>
+</ul>
+
+<h3 id="türetilen-göstergeler">Türetilen göstergeler:</h3>
+<ul>
+  <li>Ölüm Oranı (Fatality Rate)</li>
+  <li>İyileşme Oranı (Recovery Rate)</li>
+  <li>Milyon kişi başına vaka sayısı</li>
+</ul>
+
+<p>Bu adımlar sayesinde betimsel analizler, karşılaştırmalar ve korelasyon analizleri güvenilir biçimde uygulanabilmiştir.</p>
+
+<hr />
+
+<h2 id="-2-küresel-betimsel-i̇statistikler">📈 2. Küresel Betimsel İstatistikler</h2>
+
+<p>Dünya genelinde:</p>
+<ul>
+  <li><strong>Toplam vaka:</strong> ≈ 2.11 milyar</li>
+  <li><strong>Toplam ölüm:</strong> ≈ 21 milyon</li>
+  <li><strong>Toplam iyileşen:</strong> ≈ 1.91 milyar</li>
+  <li><strong>Toplam test:</strong> ≈ 7.08 milyar</li>
+</ul>
+
+<p>Bu toplamlar üzerinden hesaplanan oranlar:</p>
+<ul>
+  <li><strong>Global ölüm oranı:</strong> %0.99</li>
+  <li><strong>Global iyileşme oranı:</strong> %90.42</li>
+</ul>
+
+<p>Genel görünüm, küresel ölçekte vakaların büyük bölümünün iyileşme ile sonuçlandığını göstermektedir.</p>
+
+<hr />
+
+<h2 id="️-3-ülke-bazlı-ölüm-ve-i̇yileşme-oranları">⚖️ 3. Ülke Bazlı Ölüm ve İyileşme Oranları</h2>
+
+<p>Ülkeler bazında hesaplanan oranlar, küresel ortalamalardan belirgin biçimde ayrışmaktadır:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Gösterge</th>
+      <th>Ortalama</th>
+      <th>Medyan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ölüm Oranı</td>
+      <td>%1.38</td>
+      <td>%0.88</td>
+    </tr>
+    <tr>
+      <td>İyileşme Oranı</td>
+      <td>%73.6</td>
+      <td>%97.3</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Bu fark, bazı ülkelerde <strong>orantısız biçimde yüksek ölüm oranları</strong> olduğunu ve pandeminin etkilerinin ülkeler arasında homojen olmadığını göstermektedir.</p>
+
+<hr />
+
+<h2 id="-4-en-çok-etkilenen-ülkeler">🌐 4. En Çok Etkilenen Ülkeler</h2>
+
+<h3 id="toplam-vaka-sayısına-göre">Toplam vaka sayısına göre:</h3>
+<p>ABD, Hindistan ve büyük Avrupa ülkeleri öne çıkmaktadır.</p>
+
+<h3 id="toplam-ölüm-sayısına-göre">Toplam ölüm sayısına göre:</h3>
+<p>ABD, Brezilya ve Hindistan listenin üst sıralarında yer alırken, Latin Amerika ülkelerinin ölüm yükü dikkat çekicidir.</p>
+
+<h3 id="nüfusa-oranla-vaka--milyon">Nüfusa oranla (vaka / milyon):</h3>
+<p>Küçük nüfuslu ülkeler üst sıralarda yer almakta; bu durum per-capita göstergelerin nüfus büyüklüğüne duyarlı olduğunu göstermektedir.</p>
+
+<hr />
+
+<h2 id="-5-kıtasal-karşılaştırmalar">🌍 5. Kıtasal Karşılaştırmalar</h2>
+
+<p>Kıta bazlı ölüm oranları pandeminin bölgesel etkilerini açık biçimde ortaya koymaktadır:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Kıta</th>
+      <th>Ölüm Oranı</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Africa</td>
+      <td>%2.01</td>
+    </tr>
+    <tr>
+      <td>South America</td>
+      <td>%1.95</td>
+    </tr>
+    <tr>
+      <td>North America</td>
+      <td>%1.29</td>
+    </tr>
+    <tr>
+      <td>Europe</td>
+      <td>%0.83</td>
+    </tr>
+    <tr>
+      <td>Asia</td>
+      <td>%0.70</td>
+    </tr>
+    <tr>
+      <td>Oceania</td>
+      <td>%0.22</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Afrika ve Güney Amerika, görece düşük vaka sayılarına rağmen en yüksek ölüm oranlarına sahiptir. Okyanusya ise erken önlemler sayesinde hem vaka hem ölüm oranlarında ayrışmaktadır.</p>
+
+<hr />
+
+<h2 id="-6-test-nüfus-ve-vaka-sayıları-arasındaki-i̇lişkiler">🔗 6. Test, Nüfus ve Vaka Sayıları Arasındaki İlişkiler</h2>
+
+<h3 id="test-sayısı--vaka-sayısı">Test sayısı ↔ Vaka sayısı</h3>
+<ul>
+  <li><strong>Korelasyon katsayısı:</strong> r ≈ 0.84</li>
+</ul>
+
+<p>Daha fazla test yapan ülkelerin daha fazla vaka tespit ettiği görülmektedir.</p>
+
+<h3 id="nüfus--vaka-sayısı">Nüfus ↔ Vaka sayısı</h3>
+<ul>
+  <li><strong>Korelasyon katsayısı:</strong> r ≈ 0.37</li>
+</ul>
+
+<p>Nüfus büyüklüğü vaka sayısını kısmen açıklasa da tek başına belirleyici değildir.</p>
+
+<hr />
+
+<h2 id="-7-genel-sonuçlar-ve-çıkarımlar">📘 7. Genel Sonuçlar ve Çıkarımlar</h2>
+
+<ul>
+  <li>Küresel ortalamalar pandeminin etkisini olduğundan daha homojen gösterebilmektedir</li>
+  <li>Test kapasitesi, tespit edilen vaka sayısında kritik rol oynamaktadır</li>
+  <li>Ölüm oranları, yalnızca vaka sayısıyla değil sağlık altyapısı ile de ilişkilidir</li>
+  <li>Pandemiye yönelik politikaların <strong>bölgesel ve ülke-özel</strong> tasarlanması gerekmektedir</li>
+</ul>
+
+<hr />
+
+<h2 id="-son-değerlendirme">🧠 Son Değerlendirme</h2>
+
+<p>Bu analiz, COVID-19 pandemisinin tek tip bir küresel deneyim olmadığını; aksine ülkeler ve kıtalar arasında ciddi farklılıklar barındırdığını göstermektedir.<br />
+Veri, pandeminin yalnızca biyolojik değil, aynı zamanda <strong>yapısal ve politik bir kriz</strong> olduğunu açıkça ortaya koymaktadır.</p>
+
+<hr />
+
+<p>🔗 <strong>Proje Dosyaları</strong></p>]]></content><author><name>Nurgül Evcim</name></author><category term="Data Analysis" /><category term="Public Health" /><category term="covid19" /><category term="global-health" /><category term="data-analysis" /><category term="pandas" /><category term="public-policy" /><summary type="html"><![CDATA[Bu çalışma, küresel COVID-19 verileri kullanılarak pandeminin ülke ve kıta bazında nasıl farklılaştığını analiz etmektedir.]]></summary></entry><entry><title type="html">Piyasa-Social Media Algorithms &amp;amp; Consumer Behavior – Analysis Report</title><link href="/piyasaarastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/" rel="alternate" type="text/html" title="Piyasa-Social Media Algorithms &amp;amp; Consumer Behavior – Analysis Report" /><published>2025-11-22T00:00:00+00:00</published><updated>2025-11-22T00:00:00+00:00</updated><id>/piyasaarastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation</id><content type="html" xml:base="/piyasaarastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/"><![CDATA[<hr />
 
 <h1 id="-sosyal-medya-algoritmaları-ve-tüketici-davranışı--analiz-raporu">📊 Sosyal Medya Algoritmaları ve Tüketici Davranışı – Analiz Raporu</h1>
 
