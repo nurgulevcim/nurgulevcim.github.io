@@ -14,7 +14,6 @@ excerpt: "Bu çalışma, küresel COVID-19 verileri kullanılarak pandeminin ül
 ---
 
 📊 **Küresel COVID-19 Pandemisi – Analiz Raporu**  
-Permalink
 
 Bu çalışma, küresel COVID-19 veri seti kullanılarak pandeminin **ülke ve kıta bazında** yayılımını, ölüm oranlarını, test kapasitesini ve nüfus etkisini analiz etmektedir.
 
