@@ -5,10 +5,10 @@ permalink: /about/
 author_profile: true
 ---
 
-# 👋 Merhaba, ben Nurgül   
-**Araştırmacı ve Veri Analisti | Piyasa İçgörüleri | Python & Görselleştirme**
+# 👋 Merhaba, Nurgül ben.
+**Araştırmacı ve Veri Analisti | Ekonomi Araştırmaları | Piyasa Araştırmaları| Python & Görselleştirme**
 
-Veri odaklı içgörülerle piyasayı anlamaya çalışan bir araştırmacıyım.  
+Veri odaklı içgörülerle ekonomiyi ve piyasayı anlamaya çalışan bir araştırmacıyım.  
 Ham veriyi anlamlı ve aksiyona geçilebilecek içgörülere dönüştürmeyi, karar alma süreçlerine katkı sağlamayı önemsiyorum.
 
 ---
