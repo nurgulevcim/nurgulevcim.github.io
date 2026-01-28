@@ -12,7 +12,8 @@ author_profile: true
 ---
 
 ## 🔹 **E-commerce Customer Behavior Analysis**
-**Araçlar:** Python (pandas, numpy, matplotlib, seaborn)  
+**Araçlar:** Python (pandas, numpy, matplotlib, seaborn)
+
 **Konular:**  
 - RFM segmentasyonu  
 - İndirim duyarlılığı  
@@ -26,6 +27,7 @@ author_profile: true
 
 ## 🔹 **Social Media Algorithms & Consumer Behavior Analysis**
  **Araçlar:** Python (pandas, numpy, matplotlib, seaborn)
+ 
  **Konular:**
 - Algoritmik etki
 - Kişiselleştirme
