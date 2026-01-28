@@ -20,4 +20,4 @@ feature_row:
 
 Merhaba!  
 
-Ekonomi ve piyasa alanında araştırmalar yapan, gerçek dünyayı veriyle okumayı seven bir araştırmacıyım. Bu sayfada hem teknik projelerimi hem de analitik yolculuğumu keşfedebilirsiniz.
+Ekonomi ve piyasa hakkında araştırmalar yapan, gerçek dünyayı veriyle okumayı seven bir araştırmacıyım. Bu sayfada hem teknik projelerimi hem de analitik yolculuğumu keşfedebilirsiniz.
