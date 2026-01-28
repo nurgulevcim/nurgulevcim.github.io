@@ -131,3 +131,8 @@ Veri, pandeminin yalnızca biyolojik değil, aynı zamanda **yapısal ve politik
 ---
 
 🔗 **Proje Dosyaları**  
+Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:
+👉 https://github.com/nurgulevcim/covid19-global-country-continent-analysis
+
+Hazırlayan: Nurgül Evcim
+_Data Analyst
