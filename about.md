@@ -34,7 +34,8 @@ Bu blogda şunları bulacaksınız:
 - Müşteri davranışı ve analitiği üzerine içgörüler  
 - Veri görselleştirme ve raporlama örnekleri  
 - Analitik yolculuğumdan öğrenme notları  
-- Kalkınma odaklı ekonomi notları  
+- Kalkınma odaklı ekonomi notları
+
 ---
 
 ## ✨ Veri ile Neden Çalışıyorum?  
