@@ -20,4 +20,4 @@ feature_row:
 
 Merhaba!  
 
-Ekonomi, veri analizi ve müşteri içgörüleri alanında çalışan, gerçek dünyayı veriyle okumayı seven bir araştırmacıyım. Bu sayfada hem teknik projelerimi hem de analitik yolculuğumu keşfedebilirsin.
+Ekonomi ve piyasa alanında araştırmalar yapan, gerçek dünyayı veriyle okumayı seven bir araştırmacıyım. Bu sayfada hem teknik projelerimi hem de analitik yolculuğumu keşfedebilirsiniz.
