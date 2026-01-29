@@ -1,16 +1,10 @@
 ---
+layout: single
 title: "Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu"
-date: 2025-12-25
-categories:
-  - Data Analysis
-  - Public Health
-tags:
-  - covid19
-  - global-health
-  - data-analysis
-  - pandas
-  - public-policy
 excerpt: "Bu çalışma, küresel COVID-19 verileri kullanılarak pandeminin ülke ve kıta bazında nasıl farklılaştığını analiz etmektedir."
+categories:
+  - Ekonomi
+tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 ---
 
 📊 **Küresel COVID-19 Pandemisi – Analiz Raporu**  
