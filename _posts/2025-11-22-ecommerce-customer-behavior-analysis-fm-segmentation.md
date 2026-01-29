@@ -2,7 +2,8 @@
 layout: single
 title: "Piyasa-Social Media Algorithms & Consumer Behavior – Analysis Report"
 date: 2025-11-22
-categories: [piyasaarastirmalari]
+categories:
+  - Piyasa_Arastirmalari
 ---
 
 ---
