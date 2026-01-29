@@ -7,4 +7,3 @@ taxonomy: categories
 category: blog
 entries_layout: list
 ---
-
