@@ -23,7 +23,7 @@ author:
 
 # BLOG AYARLARI
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 
 # Post koleksiyonu — KATEGORİYE GÖRE URL
 collections:
