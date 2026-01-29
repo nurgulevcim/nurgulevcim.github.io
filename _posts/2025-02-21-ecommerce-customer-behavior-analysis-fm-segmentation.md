@@ -2,7 +2,8 @@
 layout: single
 title: "Piyasa-E-commerce Customer Behavior Analysis – FM Segmentation Insights"
 date: 2025-02-21
-categories: [piyasaarastirmalari]
+categories:
+  - Piyasa_Arastirmalari
 ---
 
 # 📦 E-commerce Customer Behavior Analysis  
