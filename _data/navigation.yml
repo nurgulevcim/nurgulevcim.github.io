@@ -10,7 +10,7 @@ main:
   - title: "Blog"
     url: /blog/
     children:
-      - title: "Yoksulluk"
-        url: /categories/yoksulluk/
+      - title: "Ekonomi"
+        url: /categories/Ekonomi/
       - title: "Piyasa Araştırmaları"
-        url: /categories/piyasaarastirmalari/
+        url: /categories/Piyasa_Arastirmalari/
