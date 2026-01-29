@@ -2,7 +2,8 @@
 layout: single
 title: "Ekon-Yoksulluğun Tarihine Kısa Bir Yolculuk"
 excerpt: "İlkel toplumlardan modern refah devletine uzanan yoksulluk tarihine kısa bir bakış."
-categories: [yoksulluk]
+categories:
+  - Ekonomi
 tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 ---
 
