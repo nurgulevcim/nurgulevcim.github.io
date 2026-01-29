@@ -1,9 +1,10 @@
 ---
-layout: single
 title: "Blog"
+layout: single
 permalink: /blog/
 author_profile: false
 ---
+
 ## Ekonomi
 
 {% assign ekonomi_posts = site.categories.Ekonomi | sort: "date" | reverse %}
