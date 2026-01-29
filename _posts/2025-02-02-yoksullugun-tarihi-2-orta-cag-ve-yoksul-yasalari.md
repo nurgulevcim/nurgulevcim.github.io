@@ -2,7 +2,8 @@
 layout: single
 title: "Ekon-Yoksulluğun Dönüşümü: Orta Çağ’da Dilencilik ve Yoksul Yasalarının Doğuşu"
 excerpt: "Orta Çağ’da dilenciliğin yükselişi, Kara Ölüm'ün etkileri ve 1388–1601 arasındaki ilk yoksulluk yasalarının ortaya çıkışı."
-categories: [yoksulluk]
+categories:
+  - Ekonomi
 tags: [ekonomik-yoksulluk, sosyal-politika, tarih]
 ---
 
