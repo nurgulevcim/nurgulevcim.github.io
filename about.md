@@ -18,7 +18,7 @@ Ham veriyi anlamlı ve aksiyona geçilebilecek içgörülere dönüştürmeyi, k
 
 - **Akademik araştırmalar, kalkınma ve piyasa odaklı analizler**
 - **Müşteri segmentasyonu** (RFM, kümeleme, persona oluşturma)  
-- **Davranış analizi & funnel optimizasyonu**  
+- **Davranış analizi**  
 - **E-ticaret performans metrikleri ve büyüme analitiği**  
 - **Python ile veri analizi** (pandas, matplotlib, seaborn, scikit-learn)  
 - **Veri hikâyeleştirme & görselleştirme**  
