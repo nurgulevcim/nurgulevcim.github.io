@@ -17,8 +17,7 @@ Ham veriyi anlamlı ve aksiyona geçilebilecek içgörülere dönüştürmeyi, k
 Çalışmaktan keyif aldığım alanlar:
 
 - **Akademik araştırmalar, kalkınma ve piyasa odaklı analizler**
-- **Müşteri segmentasyonu** (RFM, kümeleme, persona oluşturma)  
-- **Davranış analizi**  
+- **Müşteri segmentasyonu** (RFM, kümeleme, persona oluşturma)    
 - **E-ticaret performans metrikleri ve büyüme analitiği**  
 - **Python ile veri analizi** (pandas, matplotlib, seaborn, scikit-learn)  
 - **Veri hikâyeleştirme & görselleştirme**  
