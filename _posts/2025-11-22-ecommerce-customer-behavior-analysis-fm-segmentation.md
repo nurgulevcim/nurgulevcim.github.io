@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Piyasa-Social Media Algorithms & Consumer Behavior – Analysis Report"
+title: "E-commerce Customer Behavior – Analysis Report"
 date: 2025-11-22
 categories:
   - Piyasa_Arastirmalari
@@ -8,23 +8,17 @@ categories:
 
 ---
 
-# 📊 Sosyal Medya Algoritmaları ve Tüketici Davranışı – Analiz Raporu
+# 📊 E-ticaret Müşteri Davranışı Analizi -Rapor
 
-Bu çalışma, **“Impacto dos Algoritmos das Redes Sociais no Comportamento de Consumo”** veri seti kullanılarak,
-sosyal medya algoritmalarının tüketicilerin satın alma kararları üzerindeki etkisini analiz etmektedir.
+Bu çalışma, **IEcommerce_Consumer_Behavior_Analysis_Data.csv** veri seti kullanılarak, bir e-ticaret veri seti üzerinden müşteri davranışlarını anlamak, segmentlere ayırmak ve segment bazında stratejik içgörüler üretmek amacıyla oluşturuldu. Analizde, alışveriş sıklığı (Frequency), toplam harcama (Monetary) ve davranışsal değişkenler birlikte incelendi.
 
-Araştırmanın temel amacı; algoritmik kişiselleştirme, fiyat dinamikleri, sosyal onay mekanizmaları ve influencer etkilerinin
-tüketici davranışlarını nasıl şekillendirdiğini ölçmektir.
 
 ---
 
-## 🧹 1. Veri Hazırlama ve Metodoloji
+## 🧹 1. Veri Hazırlama ve Temizleme
 
-Veri seti, Portekizce olarak hazırlanmış Likert ölçekli anket yanıtlarından oluşmaktadır.  
-İstatistiksel analiz yapılabilmesi için tüm Likert ifadeleri **1–5 arası sayısal ölçeğe** dönüştürülmüştür.
-
-- **Kodlama şeması:**  
-  (1) Kesinlikle Katılmıyorum … (5) Kesinlikle Katılıyorum  
+Veri içindeki para birimi sembolleri temizlenerek Purchase_Amount sayısal formata dönüştürüldü. Sosyal medya etkisi ve reklam etkileşimi bilgilerindeki eksikler "None" olarak dolduruldu. Böylece segmentasyon ve davranış analizi için veri tutarlı hâle getirildi.
+ 
 - **Ön işleme adımları:**  
   - Kolon adlarındaki Unicode karakter sorunları temizlenmiştir  
   - Eksik veri kontrolü yapılmıştır  
@@ -34,74 +28,54 @@ Bu adımlar sayesinde korelasyon, segmentasyon ve regresyon analizleri güvenili
 
 ---
 
-## 📈 2. Betimsel İstatistikler (Ortalama Etki Düzeyleri)
+## 📈 2. FM Segmentasyonu
 
-En yüksek ortalamaya sahip ifadeler, sosyal medyanın fiyat algısı ve sosyal onay mekanizmalarındaki güçlü rolünü ortaya koymaktadır:
-
-1. **Sosyal Onay:**  
-   “Diğer tüketici yorumlarını dikkate alırım” (Ort. = 4.74)
-2. **Fiyat Rekabeti:**  
-   “Sosyal medyada daha iyi fiyat bulduğum için fiziksel mağazadan vazgeçtim” (Ort. = 4.72)
-3. **Yerel Ticaret Potansiyeli:**  
-   “Yerel mağazalar kişiselleştirilmiş reklam verseydi onlardan alışveriş yapardım” (Ort. = 4.69)
-4. **Ekonomik Motivasyon:**  
-   “Fiyat online alışverişte temel motivasyonumdur” (Ort. = 4.49)
-5. **Algoritmik Farkındalık:**  
-   “Algoritmalar zevklerimi ve tercihlerimi tanıyor” (Ort. = 4.29)
-
-**Genel Değerlendirme:**  
-Tüketiciler algoritmik kişiselleştirmenin farkındadır ve satın alma kararlarında
-öncelikle fiyat avantajı ve diğer kullanıcı yorumlarını dikkate almaktadır.
+FM segmentasyonu, müşterilerin alışveriş sıklığı (F) ve harcama düzeyi (M) üzerinden üçer gruba ayrılmasıyla oluşturuldu.
+Örneğin:
+•	33 → En sık alışveriş yapan + en çok harcayan
+•	11 → En az alışveriş yapan + en az harcayan
+•	13 → Az alışveriş yapıp yüksek tutarda harcayan
+Bu yapı, müşteri değerini anlamak için güçlü bir temel sağladı.
 
 
 ---
 
-## 🔥 3. Korelasyon Analizi (Davranışsal Yapılar)
+## 🔥 3. Davranış Analizleri
 
-Korelasyon ısı haritası, değişkenler arasındaki güçlü ilişkileri açık biçimde göstermektedir.
+Her FM segmenti için davranış kalıplarını incelemek amacıyla çubuk grafikler oluşturuldu.
+→ Discount Sensitivity
+Düşük değer segmentlerinin daha çok indirimle motive olduğu görüldü.
+Yüksek değer segmentlerinde indirim beklentisi daha düşüktü.
+→ Purchase Channel
+Bazı segmentlerin web ağırlıklı, bazılarının ise mobil uygulama üzerinden alışveriş yaptığı belirgin şekilde ayrıştı.
+Bu durum kanal bazlı pazarlama için kritik bir veri sunuyor.
+→ Device Usage
+Cihaz kullanımında segmentler arasında ciddi farklar gözlendi.
+Örneğin bazı segmentler tablet ağırlıklı alışveriş yaparken diğerleri tamamen mobil ağırlıklıydı.
+→ Category Preference
+Segmentlere göre kategori davranışları belirgin şekilde farklılaştı.
+Bu içgörü, kampanya planlama ve ürün önerileri için değerli.
+→ Brand Loyalty
+Bazı segmentler düşük harcamalarına rağmen yüksek sadakat gösterdi.
+Bazıları ise yüksek harcamaya rağmen düşük sadakatteydi → churn riski yüksek.
+→ Ads Engagement
+Reklamlara verilen tepkiler segment bazlı incelendiğinde, bazı yüksek değer segmentlerinin reklamlara beklenenden daha açık olduğu görüldü.
+→ Social Media Influence
+Sosyal medya belirli segmentlerde güçlü bir etkileyici faktörken, bazı segmentlerde tamamen etkisizdi.
 
-**Öne çıkan ilişkiler:**
-- Algoritmalar tarafından “tanınma” algısı ↔ Kişiselleştirilmiş reklamların etkisi  
-- Influencer tavsiyeleri ↔ Reklamlardan etkilenme düzeyi  
-- Online alışverişin pratikliği ↔ Satın alma sıklığı  
-
-Bu ilişkiler üç temel davranışsal yapıyı işaret etmektedir:
-
-1. Algoritmik kişiselleştirme etkisi  
-2. Influencer / sosyal onay etkisi  
-3. Online alışveriş kolaylığı  
-
-Bu yapılar, segmentasyon analizinde de tutarlı biçimde doğrulanmıştır.
 
 ---
 
-## 🎯 4. Davranışsal Segmentasyon (K-Means)
+## 🎯 4. Genel Değerlendirme
 
-K-Means kümeleme analizi sonucunda üç farklı tüketici segmenti belirlenmiştir:
-
-### Segment 0 – *Bilinçli Değerlendirici* (n = 25)
-Fiyat ve yorum odaklı, influencer etkisine daha mesafeli tüketiciler.
-
-- Yorum ve değerlendirmelere yüksek önem verir  
-- Fiyat karşılaştırmasına duyarlıdır  
-- Influencer etkisi düşüktür  
-- Rasyonel ve analitik alışveriş davranışı sergiler  
-
-### Segment 1 – *Algoritma Etkisine Açık Alıcı* (n = 13)
-Kişiselleştirilmiş reklam ve influencer önerilerinden güçlü biçimde etkilenen tüketiciler.
-
-- Kişiselleştirilmiş reklamlara yüksek tepki verir  
-- Influencer tavsiyeleri satın alma olasılığını artırır  
-- Dijital içerik akışına duyarlıdır  
-- “Kolay tetiklenen” tüketici profili  
-
-### Segment 2 – *Pratik Online Tüketici* (n = 56)
-En geniş segmenttir; temel motivasyon hız ve kolaylıktır.
-
-- Ana motivasyon: pratiklik ve zaman tasarrufu  
-- Online alışverişi kolay olduğu için tercih eder  
-- Kişiselleştirme etkisi orta düzeydedir  
-- Influencer etkisi görece düşüktür  
+Bu analiz, e-ticaret için şu stratejik sorulara yanıt veriyor:
+•	Hangi segmentler yüksek değerli müşteriler?
+•	Kimler indirim bağımlısı?
+•	Kim hangi kanaldan alışveriş yapıyor?
+•	Hangi segment sosyal medya üzerinden etkileniyor?
+•	Sadık ama düşük harcayan “fırsat segmentleri” hangileri?
+•	Reklam hedeflemeleri kimlere yapılmalı?
+Bu sonuçlar, CRM, hedefleme, öneri sistemleri ve pazarlama stratejileri için güçlü bir temel oluşturuyor.
 
 
 ---
@@ -126,33 +100,13 @@ Kurulan doğrusal regresyon modeli istatistiksel olarak anlamlıdır
 
 ---
 
-## 📘 6. Genel Sonuçlar ve Stratejik Çıkarımlar
-
-- **Platform Değil Mekanizma:**  
-  Kruskal–Wallis testleri, platformlar (Instagram, TikTok, YouTube) arasında anlamlı bir fark olmadığını göstermiştir *(p > 0.05)*.  
-  Bu durum, etkinin platformdan ziyade **algoritmik kişiselleştirme mekanizmasından** kaynaklandığını ortaya koymaktadır.
-
-- **Algoritmik Güven:**  
-  Tüketicilerin algoritmalar tarafından “tanınma” hissi, satın alma dönüşümünü doğrudan artırmaktadır.
-
-- **Segment Bazlı Strateji:**  
-  Pazarlama yaklaşımları:
-  - Influencer odaklı tüketiciler (Segment 1)
-  - Fiyat ve pratiklik odaklı tüketiciler (Segment 2)  
-  için ayrı ayrı tasarlanmalıdır.
-
----
-
-## 🧠 Son Değerlendirme
-
-Bu analiz, algoritmaların yalnızca teknik araçlar değil,  
-tüketici kararlarını yaklaşık **%64 oranında açıklayan psikolojik yönlendiriciler** olduğunu göstermektedir.
 
 ## 🔗 Proje Dosyaları
 
 Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:
 
-👉 https://github.com/nurgulevcim/social-media-algorithmic-influence
+👉 GitHub https://github.com/nurgulevcim/ecommerce-customer-segmentation
+
 
 Hazırlayan: **Nurgül Evcim**  
 _Data Analyst
