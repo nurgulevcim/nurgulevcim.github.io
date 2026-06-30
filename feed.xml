@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-04-09T07:52:34+00:00</updated><id>/feed.xml</id><title type="html">Verinin Gerçekliği</title><author><name>Nurgül Evcim</name></author><entry><title type="html">Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu</title><link href="/ekonomi/K%C3%BCresel-COVID-19-Pandemisi-Analizi/" rel="alternate" type="text/html" title="Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu" /><published>2025-12-25T00:00:00+00:00</published><updated>2025-12-25T00:00:00+00:00</updated><id>/ekonomi/K%C3%BCresel%20COVID-19%20Pandemisi%20Analizi</id><content type="html" xml:base="/ekonomi/K%C3%BCresel-COVID-19-Pandemisi-Analizi/"><![CDATA[<p>📊 <strong>Küresel COVID-19 Pandemisi – Analiz Raporu</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-30T12:38:26+00:00</updated><id>/feed.xml</id><title type="html">Verinin Gerçekliği</title><author><name>Nurgül Evcim</name></author><entry><title type="html">Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu</title><link href="/ekonomi/K%C3%BCresel-COVID-19-Pandemisi-Analizi/" rel="alternate" type="text/html" title="Econ-Küresel COVID-19 Pandemisi – Ülke ve Kıta Bazlı Analiz Raporu" /><published>2025-12-25T00:00:00+00:00</published><updated>2025-12-25T00:00:00+00:00</updated><id>/ekonomi/K%C3%BCresel%20COVID-19%20Pandemisi%20Analizi</id><content type="html" xml:base="/ekonomi/K%C3%BCresel-COVID-19-Pandemisi-Analizi/"><![CDATA[<p>📊 <strong>Küresel COVID-19 Pandemisi – Analiz Raporu</strong></p>
 
 <p>Bu çalışma, küresel COVID-19 veri seti kullanılarak pandeminin <strong>ülke ve kıta bazında</strong> yayılımını, ölüm oranlarını, test kapasitesini ve nüfus etkisini analiz etmektedir.</p>
 
@@ -178,26 +178,19 @@ Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:</p>
 
 <p>Hazırlayan: Nurgül Evcim</p>
 
-<p>_Data Analyst</p>]]></content><author><name>Nurgül Evcim</name></author><category term="Ekonomi" /><category term="ekonomik-yoksulluk" /><category term="sosyal-politika" /><category term="tarih" /><summary type="html"><![CDATA[Bu çalışma, küresel COVID-19 verileri kullanılarak pandeminin ülke ve kıta bazında nasıl farklılaştığını analiz etmektedir.]]></summary></entry><entry><title type="html">Piyasa-Social Media Algorithms &amp;amp; Consumer Behavior – Analysis Report</title><link href="/piyasa_arastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/" rel="alternate" type="text/html" title="Piyasa-Social Media Algorithms &amp;amp; Consumer Behavior – Analysis Report" /><published>2025-11-22T00:00:00+00:00</published><updated>2025-11-22T00:00:00+00:00</updated><id>/piyasa_arastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation</id><content type="html" xml:base="/piyasa_arastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/"><![CDATA[<hr />
+<p>_Data Analyst</p>]]></content><author><name>Nurgül Evcim</name></author><category term="Ekonomi" /><category term="ekonomik-yoksulluk" /><category term="sosyal-politika" /><category term="tarih" /><summary type="html"><![CDATA[Bu çalışma, küresel COVID-19 verileri kullanılarak pandeminin ülke ve kıta bazında nasıl farklılaştığını analiz etmektedir.]]></summary></entry><entry><title type="html">E-commerce Customer Behavior – Analysis Report</title><link href="/piyasa_arastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/" rel="alternate" type="text/html" title="E-commerce Customer Behavior – Analysis Report" /><published>2025-11-22T00:00:00+00:00</published><updated>2025-11-22T00:00:00+00:00</updated><id>/piyasa_arastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation</id><content type="html" xml:base="/piyasa_arastirmalari/ecommerce-customer-behavior-analysis-fm-segmentation/"><![CDATA[<hr />
 
-<h1 id="-sosyal-medya-algoritmaları-ve-tüketici-davranışı--analiz-raporu">📊 Sosyal Medya Algoritmaları ve Tüketici Davranışı – Analiz Raporu</h1>
+<h1 id="-e-ticaret-müşteri-davranışı-analizi--rapor">📊 E-ticaret Müşteri Davranışı Analizi -Rapor</h1>
 
-<p>Bu çalışma, <strong>“Impacto dos Algoritmos das Redes Sociais no Comportamento de Consumo”</strong> veri seti kullanılarak,
-sosyal medya algoritmalarının tüketicilerin satın alma kararları üzerindeki etkisini analiz etmektedir.</p>
-
-<p>Araştırmanın temel amacı; algoritmik kişiselleştirme, fiyat dinamikleri, sosyal onay mekanizmaları ve influencer etkilerinin
-tüketici davranışlarını nasıl şekillendirdiğini ölçmektir.</p>
+<p>Bu çalışma, <strong>IEcommerce_Consumer_Behavior_Analysis_Data.csv</strong> veri seti kullanılarak, bir e-ticaret veri seti üzerinden müşteri davranışlarını anlamak, segmentlere ayırmak ve segment bazında stratejik içgörüler üretmek amacıyla oluşturuldu. Analizde, alışveriş sıklığı (Frequency), toplam harcama (Monetary) ve davranışsal değişkenler birlikte incelendi.</p>
 
 <hr />
 
-<h2 id="-1-veri-hazırlama-ve-metodoloji">🧹 1. Veri Hazırlama ve Metodoloji</h2>
+<h2 id="-1-veri-hazırlama-ve-temizleme">🧹 1. Veri Hazırlama ve Temizleme</h2>
 
-<p>Veri seti, Portekizce olarak hazırlanmış Likert ölçekli anket yanıtlarından oluşmaktadır.<br />
-İstatistiksel analiz yapılabilmesi için tüm Likert ifadeleri <strong>1–5 arası sayısal ölçeğe</strong> dönüştürülmüştür.</p>
+<p>Veri içindeki para birimi sembolleri temizlenerek Purchase_Amount sayısal formata dönüştürüldü. Sosyal medya etkisi ve reklam etkileşimi bilgilerindeki eksikler “None” olarak dolduruldu. Böylece segmentasyon ve davranış analizi için veri tutarlı hâle getirildi.</p>
 
 <ul>
-  <li><strong>Kodlama şeması:</strong><br />
-(1) Kesinlikle Katılmıyorum … (5) Kesinlikle Katılıyorum</li>
   <li><strong>Ön işleme adımları:</strong>
     <ul>
       <li>Kolon adlarındaki Unicode karakter sorunları temizlenmiştir</li>
@@ -211,85 +204,52 @@ tüketici davranışlarını nasıl şekillendirdiğini ölçmektir.</p>
 
 <hr />
 
-<h2 id="-2-betimsel-i̇statistikler-ortalama-etki-düzeyleri">📈 2. Betimsel İstatistikler (Ortalama Etki Düzeyleri)</h2>
+<h2 id="-2-fm-segmentasyonu">📈 2. FM Segmentasyonu</h2>
 
-<p>En yüksek ortalamaya sahip ifadeler, sosyal medyanın fiyat algısı ve sosyal onay mekanizmalarındaki güçlü rolünü ortaya koymaktadır:</p>
-
-<ol>
-  <li><strong>Sosyal Onay:</strong><br />
-“Diğer tüketici yorumlarını dikkate alırım” (Ort. = 4.74)</li>
-  <li><strong>Fiyat Rekabeti:</strong><br />
-“Sosyal medyada daha iyi fiyat bulduğum için fiziksel mağazadan vazgeçtim” (Ort. = 4.72)</li>
-  <li><strong>Yerel Ticaret Potansiyeli:</strong><br />
-“Yerel mağazalar kişiselleştirilmiş reklam verseydi onlardan alışveriş yapardım” (Ort. = 4.69)</li>
-  <li><strong>Ekonomik Motivasyon:</strong><br />
-“Fiyat online alışverişte temel motivasyonumdur” (Ort. = 4.49)</li>
-  <li><strong>Algoritmik Farkındalık:</strong><br />
-“Algoritmalar zevklerimi ve tercihlerimi tanıyor” (Ort. = 4.29)</li>
-</ol>
-
-<p><strong>Genel Değerlendirme:</strong><br />
-Tüketiciler algoritmik kişiselleştirmenin farkındadır ve satın alma kararlarında
-öncelikle fiyat avantajı ve diğer kullanıcı yorumlarını dikkate almaktadır.</p>
+<p>FM segmentasyonu, müşterilerin alışveriş sıklığı (F) ve harcama düzeyi (M) üzerinden üçer gruba ayrılmasıyla oluşturuldu.
+Örneğin:
+•	33 → En sık alışveriş yapan + en çok harcayan
+•	11 → En az alışveriş yapan + en az harcayan
+•	13 → Az alışveriş yapıp yüksek tutarda harcayan
+Bu yapı, müşteri değerini anlamak için güçlü bir temel sağladı.</p>
 
 <hr />
 
-<h2 id="-3-korelasyon-analizi-davranışsal-yapılar">🔥 3. Korelasyon Analizi (Davranışsal Yapılar)</h2>
+<h2 id="-3-davranış-analizleri">🔥 3. Davranış Analizleri</h2>
 
-<p>Korelasyon ısı haritası, değişkenler arasındaki güçlü ilişkileri açık biçimde göstermektedir.</p>
-
-<p><strong>Öne çıkan ilişkiler:</strong></p>
-<ul>
-  <li>Algoritmalar tarafından “tanınma” algısı ↔ Kişiselleştirilmiş reklamların etkisi</li>
-  <li>Influencer tavsiyeleri ↔ Reklamlardan etkilenme düzeyi</li>
-  <li>Online alışverişin pratikliği ↔ Satın alma sıklığı</li>
-</ul>
-
-<p>Bu ilişkiler üç temel davranışsal yapıyı işaret etmektedir:</p>
-
-<ol>
-  <li>Algoritmik kişiselleştirme etkisi</li>
-  <li>Influencer / sosyal onay etkisi</li>
-  <li>Online alışveriş kolaylığı</li>
-</ol>
-
-<p>Bu yapılar, segmentasyon analizinde de tutarlı biçimde doğrulanmıştır.</p>
+<p>Her FM segmenti için davranış kalıplarını incelemek amacıyla çubuk grafikler oluşturuldu.
+→ Discount Sensitivity
+Düşük değer segmentlerinin daha çok indirimle motive olduğu görüldü.
+Yüksek değer segmentlerinde indirim beklentisi daha düşüktü.
+→ Purchase Channel
+Bazı segmentlerin web ağırlıklı, bazılarının ise mobil uygulama üzerinden alışveriş yaptığı belirgin şekilde ayrıştı.
+Bu durum kanal bazlı pazarlama için kritik bir veri sunuyor.
+→ Device Usage
+Cihaz kullanımında segmentler arasında ciddi farklar gözlendi.
+Örneğin bazı segmentler tablet ağırlıklı alışveriş yaparken diğerleri tamamen mobil ağırlıklıydı.
+→ Category Preference
+Segmentlere göre kategori davranışları belirgin şekilde farklılaştı.
+Bu içgörü, kampanya planlama ve ürün önerileri için değerli.
+→ Brand Loyalty
+Bazı segmentler düşük harcamalarına rağmen yüksek sadakat gösterdi.
+Bazıları ise yüksek harcamaya rağmen düşük sadakatteydi → churn riski yüksek.
+→ Ads Engagement
+Reklamlara verilen tepkiler segment bazlı incelendiğinde, bazı yüksek değer segmentlerinin reklamlara beklenenden daha açık olduğu görüldü.
+→ Social Media Influence
+Sosyal medya belirli segmentlerde güçlü bir etkileyici faktörken, bazı segmentlerde tamamen etkisizdi.</p>
 
 <hr />
 
-<h2 id="-4-davranışsal-segmentasyon-k-means">🎯 4. Davranışsal Segmentasyon (K-Means)</h2>
+<h2 id="-4-genel-değerlendirme">🎯 4. Genel Değerlendirme</h2>
 
-<p>K-Means kümeleme analizi sonucunda üç farklı tüketici segmenti belirlenmiştir:</p>
-
-<h3 id="segment-0--bilinçli-değerlendirici-n--25">Segment 0 – <em>Bilinçli Değerlendirici</em> (n = 25)</h3>
-<p>Fiyat ve yorum odaklı, influencer etkisine daha mesafeli tüketiciler.</p>
-
-<ul>
-  <li>Yorum ve değerlendirmelere yüksek önem verir</li>
-  <li>Fiyat karşılaştırmasına duyarlıdır</li>
-  <li>Influencer etkisi düşüktür</li>
-  <li>Rasyonel ve analitik alışveriş davranışı sergiler</li>
-</ul>
-
-<h3 id="segment-1--algoritma-etkisine-açık-alıcı-n--13">Segment 1 – <em>Algoritma Etkisine Açık Alıcı</em> (n = 13)</h3>
-<p>Kişiselleştirilmiş reklam ve influencer önerilerinden güçlü biçimde etkilenen tüketiciler.</p>
-
-<ul>
-  <li>Kişiselleştirilmiş reklamlara yüksek tepki verir</li>
-  <li>Influencer tavsiyeleri satın alma olasılığını artırır</li>
-  <li>Dijital içerik akışına duyarlıdır</li>
-  <li>“Kolay tetiklenen” tüketici profili</li>
-</ul>
-
-<h3 id="segment-2--pratik-online-tüketici-n--56">Segment 2 – <em>Pratik Online Tüketici</em> (n = 56)</h3>
-<p>En geniş segmenttir; temel motivasyon hız ve kolaylıktır.</p>
-
-<ul>
-  <li>Ana motivasyon: pratiklik ve zaman tasarrufu</li>
-  <li>Online alışverişi kolay olduğu için tercih eder</li>
-  <li>Kişiselleştirme etkisi orta düzeydedir</li>
-  <li>Influencer etkisi görece düşüktür</li>
-</ul>
+<p>Bu analiz, e-ticaret için şu stratejik sorulara yanıt veriyor:
+•	Hangi segmentler yüksek değerli müşteriler?
+•	Kimler indirim bağımlısı?
+•	Kim hangi kanaldan alışveriş yapıyor?
+•	Hangi segment sosyal medya üzerinden etkileniyor?
+•	Sadık ama düşük harcayan “fırsat segmentleri” hangileri?
+•	Reklam hedeflemeleri kimlere yapılmalı?
+Bu sonuçlar, CRM, hedefleme, öneri sistemleri ve pazarlama stratejileri için güçlü bir temel oluşturuyor.</p>
 
 <hr />
 
@@ -314,41 +274,11 @@ Faktör analizi, endeksin <strong>tek boyutlu bir yapı</strong> sergilediğini 
 
 <hr />
 
-<h2 id="-6-genel-sonuçlar-ve-stratejik-çıkarımlar">📘 6. Genel Sonuçlar ve Stratejik Çıkarımlar</h2>
-
-<ul>
-  <li>
-    <p><strong>Platform Değil Mekanizma:</strong><br />
-Kruskal–Wallis testleri, platformlar (Instagram, TikTok, YouTube) arasında anlamlı bir fark olmadığını göstermiştir <em>(p &gt; 0.05)</em>.<br />
-Bu durum, etkinin platformdan ziyade <strong>algoritmik kişiselleştirme mekanizmasından</strong> kaynaklandığını ortaya koymaktadır.</p>
-  </li>
-  <li>
-    <p><strong>Algoritmik Güven:</strong><br />
-Tüketicilerin algoritmalar tarafından “tanınma” hissi, satın alma dönüşümünü doğrudan artırmaktadır.</p>
-  </li>
-  <li>
-    <p><strong>Segment Bazlı Strateji:</strong><br />
-Pazarlama yaklaşımları:</p>
-    <ul>
-      <li>Influencer odaklı tüketiciler (Segment 1)</li>
-      <li>Fiyat ve pratiklik odaklı tüketiciler (Segment 2)<br />
-için ayrı ayrı tasarlanmalıdır.</li>
-    </ul>
-  </li>
-</ul>
-
-<hr />
-
-<h2 id="-son-değerlendirme">🧠 Son Değerlendirme</h2>
-
-<p>Bu analiz, algoritmaların yalnızca teknik araçlar değil,<br />
-tüketici kararlarını yaklaşık <strong>%64 oranında açıklayan psikolojik yönlendiriciler</strong> olduğunu göstermektedir.</p>
-
 <h2 id="-proje-dosyaları">🔗 Proje Dosyaları</h2>
 
 <p>Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:</p>
 
-<p>👉 https://github.com/nurgulevcim/social-media-algorithmic-influence</p>
+<p>👉 GitHub https://github.com/nurgulevcim/ecommerce-customer-segmentation</p>
 
 <p>Hazırlayan: <strong>Nurgül Evcim</strong><br />
 _Data Analyst</p>]]></content><author><name>Nurgül Evcim</name></author><category term="Piyasa_Arastirmalari" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Ekon-Yoksulluğun Dönüşümü: Refah Devletinin Doğuşu ve Modern Yoksulluk Yaklaşımları</title><link href="/ekonomi/yoksullugun-tarihi-4-refah-devleti-ve-modern-yoksulluk-yaklasimlari/" rel="alternate" type="text/html" title="Ekon-Yoksulluğun Dönüşümü: Refah Devletinin Doğuşu ve Modern Yoksulluk Yaklaşımları" /><published>2025-04-04T00:00:00+00:00</published><updated>2025-04-04T00:00:00+00:00</updated><id>/ekonomi/yoksullugun-tarihi-4-refah-devleti-ve-modern-yoksulluk-yaklasimlari</id><content type="html" xml:base="/ekonomi/yoksullugun-tarihi-4-refah-devleti-ve-modern-yoksulluk-yaklasimlari/"><![CDATA[<p>20.yüzyıl, yoksulluğun tarihsel seyrinde yeni bir başlangıç noktasıdır. Sanayi Devrimi’nin sert koşulları, işçi hareketleri, savaşlar ve ekonomik krizler, devletin sosyal alandaki rolünü yeniden tanımlaması gerektiğini açıkça ortaya koydu. Bu dönemin en önemli adımı ise modern sosyal politika anlayışının temellerini atan <strong>Beveridge Raporu</strong> oldu.</p>
