@@ -1,104 +1,82 @@
+<h1 id="-e-commerce-customer-behavior-analysis">📦 E-commerce Customer Behavior Analysis</h1>
+<h3 id="fm-segmentasyonu-ile-müşteri-davranışlarını-anlamak">FM Segmentasyonu ile Müşteri Davranışlarını Anlamak</h3>
+
+<p>Bu proje, e-ticaret müşterilerinin davranışlarını anlamak için FM segmentasyonu ve davranış analizi yöntemlerini içeriyor. Amaç; müşteri değerini belirlemek, segmentlere göre içgörüler üretmek ve pazarlama stratejilerini veriyle güçlendirmek.</p>
+
 <hr />
 
-<h1 id="-e-ticaret-müşteri-davranışı-analizi--rapor">📊 E-ticaret Müşteri Davranışı Analizi -Rapor</h1>
+<h2 id="-1-veri-temizleme-ve-hazırlık">🔍 1. Veri Temizleme ve Hazırlık</h2>
+<p>Satın alma tutarları sayısal hale getirildi (para sembolleri kaldırıldı), eksik veriler dolduruldu ve analiz için tutarlı bir veri seti oluşturuldu.</p>
 
-<p>Bu çalışma, <strong>IEcommerce_Consumer_Behavior_Analysis_Data.csv</strong> veri seti kullanılarak, bir e-ticaret veri seti üzerinden müşteri davranışlarını anlamak, segmentlere ayırmak ve segment bazında stratejik içgörüler üretmek amacıyla oluşturuldu. Analizde, alışveriş sıklığı (Frequency), toplam harcama (Monetary) ve davranışsal değişkenler birlikte incelendi.</p>
+<p>Bu aşama segmentasyon ve davranış karşılaştırmaları için kritik önem taşır.</p>
 
 <hr />
 
-<h2 id="-1-veri-hazırlama-ve-temizleme">🧹 1. Veri Hazırlama ve Temizleme</h2>
-
-<p>Veri içindeki para birimi sembolleri temizlenerek Purchase_Amount sayısal formata dönüştürüldü. Sosyal medya etkisi ve reklam etkileşimi bilgilerindeki eksikler “None” olarak dolduruldu. Böylece segmentasyon ve davranış analizi için veri tutarlı hâle getirildi.</p>
+<h2 id="-2-fm-segmentasyonu">🔎 2. FM Segmentasyonu</h2>
+<p>Müşteriler iki metrik üzerinden sınıflandırıldı:</p>
 
 <ul>
-  <li><strong>Ön işleme adımları:</strong>
-    <ul>
-      <li>Kolon adlarındaki Unicode karakter sorunları temizlenmiştir</li>
-      <li>Eksik veri kontrolü yapılmıştır</li>
-      <li>Analizler Python (Pandas, Statsmodels) kullanılarak gerçekleştirilmiştir</li>
-    </ul>
-  </li>
+  <li><strong>F (Frequency):</strong> alışveriş sıklığı</li>
+  <li><strong>M (Monetary):</strong> toplam harcama</li>
 </ul>
 
-<p>Bu adımlar sayesinde korelasyon, segmentasyon ve regresyon analizleri güvenilir biçimde uygulanabilmiştir.</p>
+<p>Her iki metrik 3 gruba bölünerek 3x3 = 9 farklı müşteri segmenti üretildi.</p>
 
-<hr />
-
-<h2 id="-2-fm-segmentasyonu">📈 2. FM Segmentasyonu</h2>
-
-<p>FM segmentasyonu, müşterilerin alışveriş sıklığı (F) ve harcama düzeyi (M) üzerinden üçer gruba ayrılmasıyla oluşturuldu.
-Örneğin:
-•	33 → En sık alışveriş yapan + en çok harcayan
-•	11 → En az alışveriş yapan + en az harcayan
-•	13 → Az alışveriş yapıp yüksek tutarda harcayan
-Bu yapı, müşteri değerini anlamak için güçlü bir temel sağladı.</p>
-
-<hr />
-
-<h2 id="-3-davranış-analizleri">🔥 3. Davranış Analizleri</h2>
-
-<p>Her FM segmenti için davranış kalıplarını incelemek amacıyla çubuk grafikler oluşturuldu.
-→ Discount Sensitivity
-Düşük değer segmentlerinin daha çok indirimle motive olduğu görüldü.
-Yüksek değer segmentlerinde indirim beklentisi daha düşüktü.
-→ Purchase Channel
-Bazı segmentlerin web ağırlıklı, bazılarının ise mobil uygulama üzerinden alışveriş yaptığı belirgin şekilde ayrıştı.
-Bu durum kanal bazlı pazarlama için kritik bir veri sunuyor.
-→ Device Usage
-Cihaz kullanımında segmentler arasında ciddi farklar gözlendi.
-Örneğin bazı segmentler tablet ağırlıklı alışveriş yaparken diğerleri tamamen mobil ağırlıklıydı.
-→ Category Preference
-Segmentlere göre kategori davranışları belirgin şekilde farklılaştı.
-Bu içgörü, kampanya planlama ve ürün önerileri için değerli.
-→ Brand Loyalty
-Bazı segmentler düşük harcamalarına rağmen yüksek sadakat gösterdi.
-Bazıları ise yüksek harcamaya rağmen düşük sadakatteydi → churn riski yüksek.
-→ Ads Engagement
-Reklamlara verilen tepkiler segment bazlı incelendiğinde, bazı yüksek değer segmentlerinin reklamlara beklenenden daha açık olduğu görüldü.
-→ Social Media Influence
-Sosyal medya belirli segmentlerde güçlü bir etkileyici faktörken, bazı segmentlerde tamamen etkisizdi.</p>
-
-<hr />
-
-<h2 id="-4-genel-değerlendirme">🎯 4. Genel Değerlendirme</h2>
-
-<p>Bu analiz, e-ticaret için şu stratejik sorulara yanıt veriyor:
-•	Hangi segmentler yüksek değerli müşteriler?
-•	Kimler indirim bağımlısı?
-•	Kim hangi kanaldan alışveriş yapıyor?
-•	Hangi segment sosyal medya üzerinden etkileniyor?
-•	Sadık ama düşük harcayan “fırsat segmentleri” hangileri?
-•	Reklam hedeflemeleri kimlere yapılmalı?
-Bu sonuçlar, CRM, hedefleme, öneri sistemleri ve pazarlama stratejileri için güçlü bir temel oluşturuyor.</p>
-
-<hr />
-
-<h2 id="-5-algoritma-etkisi-endeksi-ve-nedensel-analiz">📉 5. Algoritma Etkisi Endeksi ve Nedensel Analiz</h2>
-
-<p>Algoritma algısını ölçen beş madde birleştirilerek <strong>Algoritma Etkisi Endeksi</strong> oluşturulmuştur.<br />
-Faktör analizi, endeksin <strong>tek boyutlu bir yapı</strong> sergilediğini doğrulamıştır.</p>
-
-<h3 id="regresyon-analizi-sonuçları">Regresyon Analizi Sonuçları</h3>
-
-<p>Kurulan doğrusal regresyon modeli istatistiksel olarak anlamlıdır<br />
-<em>(F(1,92) = 161.1, p &lt; 0.001)</em>.</p>
-
+<p><strong>Örnek segment yorumları:</strong></p>
 <ul>
-  <li><strong>Açıklanan varyans (R²):</strong> 0.637<br />
-→ Satın alma kararlarındaki varyansın yaklaşık <strong>%64’ü</strong> açıklanmaktadır.</li>
-  <li><strong>Standartlaştırılmamış katsayı (B):</strong> 1.03<br />
-→ Algoritma etkisindeki 1 birimlik artış, satın alma kararı üzerinde 1.03 birimlik artış yaratmaktadır.</li>
-  <li><strong>Standartlaştırılmış katsayı (β):</strong> 0.80<br />
-→ Etki büyüklüğünün <strong>çok güçlü</strong> olduğunu göstermektedir.</li>
+  <li><code class="language-plaintext highlighter-rouge">33</code> → En sık alışveriş yapan ve en çok harcayan segment</li>
+  <li><code class="language-plaintext highlighter-rouge">11</code> → En az alışveriş yapan ve en az harcayan</li>
+  <li><code class="language-plaintext highlighter-rouge">13</code> → Az alışveriş yapıp yüksek tutarda harcayan</li>
+</ul>
+
+<p>Bu yapı tüm davranış analizlerinin temelini oluşturdu.</p>
+
+<hr />
+
+<h2 id="-3-davranış-analizleri">📊 3. Davranış Analizleri</h2>
+<p>FM segmentlerine göre aşağıdaki müşteri davranışları incelendi:</p>
+
+<h3 id="-discount-sensitivity">🔹 Discount Sensitivity</h3>
+<p>Düşük değerli segmentler daha fazla indirime ihtiyaç duyarken, yüksek değerli segmentlerin indirim hassasiyeti daha düşüktür.</p>
+
+<h3 id="-purchase-channel">🔹 Purchase Channel</h3>
+<p>Alışveriş kanalı segmentlere göre ciddi farklılık gösterir (web / mobil / uygulama).</p>
+
+<h3 id="-device-usage">🔹 Device Usage</h3>
+<p>Bazı segmentler mobil ağırlıklı alışveriş yaparken, bazıları tablet veya masaüstünü tercih eder.</p>
+
+<h3 id="-category-preference">🔹 Category Preference</h3>
+<p>Her segment farklı ürün kategorilerine yönelir.<br />
+Bu, kampanya hedeflemeleri için kritik içgörüler sunar.</p>
+
+<h3 id="-brand-loyalty">🔹 Brand Loyalty</h3>
+<p>Bazı segmentler düşük harcamalarına rağmen oldukça sadıktır; bazı segmentler ise yüksek harcamasına rağmen düşük sadakat gösterir (churn riski).</p>
+
+<h3 id="-ads-engagement">🔹 Ads Engagement</h3>
+<p>Reklam etkileşimleri segmentler arasında belirgin şekilde ayrılır.<br />
+Beklenmedik şekilde yüksek değerli segmentte dahi reklam tıklanabilirlik gözlenmiştir.</p>
+
+<h3 id="-social-media-influence">🔹 Social Media Influence</h3>
+<p>Sosyal medyanın bazı segmentlerde güçlü, bazılarında etkisiz olduğu görülmüştür.</p>
+
+<hr />
+
+<h2 id="-4-genel-sonuçlar">✨ 4. Genel Sonuçlar</h2>
+<ul>
+  <li>FM segmentasyonu müşteri davranışlarını anlamada oldukça güçlü bir yöntemdir.</li>
+  <li>Segment bazlı davranış farklılıkları, kişiselleştirme ve CRM için büyük fırsatlar sunar.</li>
+  <li>İndirim stratejileri, cihaz/kanal tercihi ve kategori davranışı; segment bazlı oldukça farklılaşır.</li>
+  <li>Veri odaklı pazarlama stratejileri için uygulanabilir içgörüler elde edilmiştir.</li>
 </ul>
 
 <hr />
 
 <h2 id="-proje-dosyaları">🔗 Proje Dosyaları</h2>
+<p>Bu analizde kullanılan notebook ve görseller GitHub’da:</p>
 
-<p>Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:</p>
+<p>👉 https://github.com/nurgulevcim/ecommerce-customer-segmentation</p>
 
-<p>👉 GitHub https://github.com/nurgulevcim/ecommerce-customer-segmentation</p>
+<hr />
 
 <p>Hazırlayan: <strong>Nurgül Evcim</strong><br />
 _Data Analyst</p>
