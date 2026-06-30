@@ -159,3 +159,4 @@ Bu analizde kullanılan notebook ve görseller GitHub’da yer almaktadır:
 
 Hazırlayan: **Nurgül Evcim**  
 _Data Analyst
+
